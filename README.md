@@ -17,7 +17,7 @@
   <strong><a href="https://www.twitch.tv/edisonlee55">Twitch</a></strong>
 </p>
 
-<p align="center">❤ I'm currently working on projects, cloud solutions and most important of all, myself.</p>
+<p align="center">❤ I'm currently working on personal projects, cloud solutions and most important of all, myself.</p>
 
 <!--
 **edisonlee55/edisonlee55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
