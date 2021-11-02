@@ -2,8 +2,8 @@
   <a href="https://www.edisonlee55.com"><img src="banner.png" alt=""></a>
 </p>
 
-<h1 align="center">Hi, I'm <a href="https://www.edisonlee55.com">Joseph Eshiett</a>!</h1>
-<h1 align="center">Welcome to my GitHub profile</h1>
+<h1 align="center">Hi, I'm Joseph Eshiett!👋🏾</h1>
+<h1 align="center">Welcome to my GitHub profile! 🎉</h1>
 
 <p align="center">
   <a href="https://github.com/joeshiett"><img src="https://github-readme-stats.vercel.app/api?username=joeshiett&hide_border=true&show_icons=true" alt="joeshiett's github stats"></a>
@@ -17,7 +17,7 @@
   <strong><a href="https://www.twitch.tv/edisonlee55">Twitch</a></strong>
 </p>
 
-<p align="center">❤ I'm currently working on myself.</p>
+<p align="center">❤ I'm currently working on projects, cloud solutions and most important of all, myself.</p>
 
 <!--
 **edisonlee55/edisonlee55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
